@@ -1,4 +1,4 @@
-## Main 
+## *
 <h1 align="center">Hi 👋, I'm Erman Louie A. Faminiano</h1>
 <h3 align="center">Aspiring Backend Developer</h3>
 
@@ -19,4 +19,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ermanfaminiano&" alt="ermanfaminiano" /></p>
 
-**[⬆ back to top](#Main)**
+**[⬆ back to top](#*)**
